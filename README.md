@@ -64,3 +64,7 @@ Fahrenheit is 77.00 and Kelvin is 298.15
 ## Contributing
 
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT License](LICENSE)
